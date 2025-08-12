@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.app/.venv/
+app/.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env
+
+# Neo4j bind mounts
+neo4j/data/
+neo4j/logs/
+neo4j/import/
+neo4j/plugins/
+
+# OS/editor
+.DS_Store
+*.swp
