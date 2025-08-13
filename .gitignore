@@ -20,3 +20,5 @@ neo4j/plugins/
 # OS/editor
 .DS_Store
 *.swp
+
+data/
